@@ -1,3 +1,11 @@
 config.py
+
+# Ignorer les fichiers de cache Python
 __pycache__/
 *.pyc
+
+# Ignorer l'environnement virtuel
+venv/
+
+# Ignorer les fichiers de configuration spécifiques à l'IDE (par exemple, VSCode)
+.vscode/
